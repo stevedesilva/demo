@@ -2,4 +2,4 @@ Read me text
 
 new line
 
-another line
+master modify another line
